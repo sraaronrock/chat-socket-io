@@ -1,0 +1,15 @@
+#messages {
+  width: 95%;
+  max-width: 310px;
+  height: 200px;
+  padding: 15px;
+  overflow-y: scroll;
+}
+
+form {
+  padding: 15px;
+}
+
+.form-group {
+  width: 300px;
+}
